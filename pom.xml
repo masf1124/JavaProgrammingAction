@@ -11,6 +11,9 @@
   <modules>
     <module>sword-to-offer</module>
       <module>redis-action</module>
+      <module>spring-action</module>
+      <module>jdk-spi-demo</module>
+      <module>redis-scekill-demo</module>
   </modules>
 
   <name>JavaProgrammingAction</name>

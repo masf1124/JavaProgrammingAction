@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jdk-spi-demo" />
         <module name="redis-action" />
+        <module name="redis-scekill-demo" />
+        <module name="spring-action" />
         <module name="sword-to-offer" />
       </profile>
     </annotationProcessing>
