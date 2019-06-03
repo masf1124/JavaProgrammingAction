@@ -14,6 +14,12 @@
       <module>spring-action</module>
       <module>jdk-spi-demo</module>
       <module>redis-scekill-demo</module>
+      <module>art-of-concurrent-programming</module>
+    <module>art-of-concurrent-programming</module>
+    <module>data-structure-algorithm</module>
+      <module>calculator-implements</module>
+    <module>leetcode-implements</module>
+    <module>pinyougou-module-test</module>
   </modules>
 
   <name>JavaProgrammingAction</name>

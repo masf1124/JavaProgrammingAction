@@ -6,12 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="art-of-concurrent-programming" />
+        <module name="calculator-implements" />
+        <module name="data-structure-algorithm" />
         <module name="jdk-spi-demo" />
+        <module name="leetcode-implements" />
+        <module name="pinyougou-module-test" />
         <module name="redis-action" />
         <module name="redis-scekill-demo" />
         <module name="spring-action" />
         <module name="sword-to-offer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="art-of-concurrent-programming" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
