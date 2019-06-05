@@ -9,6 +9,7 @@
         <module name="art-of-concurrent-programming" />
         <module name="calculator-implements" />
         <module name="data-structure-algorithm" />
+        <module name="design-pattern" />
         <module name="jdk-spi-demo" />
         <module name="leetcode-implements" />
         <module name="pinyougou-module-test" />

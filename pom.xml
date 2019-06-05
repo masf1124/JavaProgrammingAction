@@ -20,6 +20,7 @@
       <module>calculator-implements</module>
     <module>leetcode-implements</module>
     <module>pinyougou-module-test</module>
+    <module>design-pattern</module>
   </modules>
 
   <name>JavaProgrammingAction</name>
