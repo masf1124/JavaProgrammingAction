@@ -21,6 +21,10 @@
     <module>leetcode-implements</module>
     <module>pinyougou-module-test</module>
     <module>design-pattern</module>
+      <module>huawei-online</module>
+      <module>campus-recruit</module>
+      <module>campus-recruit</module>
+      <module>InterviewGuides</module>
   </modules>
 
   <name>JavaProgrammingAction</name>

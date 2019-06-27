@@ -10,6 +10,10 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/art-of-concurrent-programming/pom.xml" />
+        <option value="$PROJECT_DIR$/calculator-implements/pom.xml" />
+        <option value="$PROJECT_DIR$/campus-recruit/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk-spi-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-module-test/pom.xml" />
       </set>
     </option>
   </component>
